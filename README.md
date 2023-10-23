@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Node.JS , Express.JS . MongoDB**
 
-- 👨‍💻 All of my projects are available at Netlify [https://app.netlify.com/teams/fahadssgg/overview](https://app.netlify.com/teams/fahadssgg/overview)
+- 👨‍💻 All of my projects are available at Netlify [My Projects](https://app.netlify.com/teams/fahadssgg/overview)
 
 - 💬 Ask me about **React , HTML , CSS , JS , Tailwind**
 
