@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **Fahadguzai@gmail.com**
 
-- 📄 Know about my experiences [My CV](https://github.com/fahadssgg/cv/blob/f4025cc97d141f42dc4388bd5b005c6c7329ffe8/Fahad_Saad_Alghamdi.pdf)
+- 📄 Know about my experiences [My CV](https://github.com/fahadssgg/cv/blob/f4025cc97d141f42dc4388bd5b005c6c7329ffe8/Fahad_Saad_Alghamdi_CV.pdf)
 
 - ⚡ Fun fact **I love video games , Movies and TV shows**
 
